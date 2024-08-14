@@ -11,7 +11,7 @@ navbar_entries:
 project_entries:
   - title: Project 1
     url: overview-post
-    desc: ![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg)
+    desc: I want this to be a photo
 
 
   - title: Project 2
